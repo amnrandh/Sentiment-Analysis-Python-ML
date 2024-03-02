@@ -49,6 +49,7 @@ Confusion Matrix:
 The code analyzes the frequency of words in positive and negative reviews from the training data. This analysis helps identify the most common words associated with each sentiment. Understanding these words helps us understand the traits of positive and negative reviews. This information can enhance the accuracy of the sentiment analysis model.
 
 **Output:**
+
 Top 30 Positive Words:
        Word  Count
 0      film  35257
