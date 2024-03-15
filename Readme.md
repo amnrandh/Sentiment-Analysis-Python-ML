@@ -8,7 +8,7 @@ https://ai.stanford.edu/~amaas/data/sentiment/
 
 ## Introduction:
 
-Sentiment analysis, also called opinion mining, figures out if text is positive, negative, or neutral.. The code creates a sentiment analysis model using Python and machine learning techniques.
+Sentiment analysis, also called opinion mining, figures out if text is positive, negative, or neutral. The code creates a sentiment analysis model using Python and machine learning techniques.
 
 ## Setup and Data Loading:
 
@@ -50,7 +50,7 @@ The code analyzes the frequency of words in positive and negative reviews from t
 
 **Output:**
 
-Top 30 Positive Words:
+```Top 30 Positive Words:
        Word  Count
 0      film  35257
 1      movi  30917
@@ -81,9 +81,9 @@ Top 30 Positive Words:
 26     best   6394
 27      ...   6324
 28       go   6303
-29     look   6231
+29     look   6231 ```
 
-Top 30 Negative Words:
+```Top 30 Negative Words:
        Word  Count
 0      movi  39734
 1      film  30795
@@ -114,7 +114,7 @@ Top 30 Negative Words:
 26      end   6543
 27     show   6433
 28     seem   6433
-29      say   6383
+29      say   6383```
 
 
 ## Conclusion:
