@@ -81,9 +81,9 @@ The code analyzes the frequency of words in positive and negative reviews from t
 26     best   6394
 27      ...   6324
 28       go   6303
-29     look   6231 ```
+29     look   6231
 
-```Top 30 Negative Words:
+Top 30 Negative Words:
        Word  Count
 0      movi  39734
 1      film  30795
