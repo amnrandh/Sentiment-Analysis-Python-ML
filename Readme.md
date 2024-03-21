@@ -114,9 +114,9 @@ Top 30 Negative Words:
 26      end   6543
 27     show   6433
 28     seem   6433
-29      say   6383```
+29      say   6383
 
-
+```
 ## Conclusion:
 
 The code creates a sentiment analysis model using Python and machine learning. It's accurate about 74.61% of the time. When we check the classification report and confusion matrix, we see the model does pretty well at predicting sentiment in IMDb movie reviews.
